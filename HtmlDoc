@@ -1,0 +1,12 @@
+<!DOCTYPE>
+<html>  
+<body>  
+<table border="1">  
+<tr><th>First_Name</th><th>Last_Name</th><th>Marks</th></tr>  
+<tr><td>Shashank</td><td>Srivastava</td><td>60</td></tr>  
+<tr><td>Amu</td><td>Srivastava</td><td>70</td></tr>  
+<tr><td>Anu</td><td>Srivastava</td><td>82</td></tr>  
+<tr><td>Moni</td><td>Srivastava</td><td>72</td></tr>  
+</table>  
+</body>
+</html>
